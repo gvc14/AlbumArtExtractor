@@ -2,5 +2,6 @@
 
 Simple AlbumArt extractor. 
 
-Use $ ./albumExtract "_audio format_" 
+Use 
+# $ ./albumExtract "_audio format_" 
  
